@@ -2,6 +2,18 @@
 #EXTINF:0,Туркестан
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
+#EXTINF:0,СТС International
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
+#EXTINF:0,Семейное кино HD
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:0,Премиум Кино HD
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:0,Мировое Кино HD
+#EXTGRP:Казахстан
+https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:0,Той Думан
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000002936/tve/index.m3u8
@@ -194,6 +206,9 @@ https://st.my5.media/hls/hd/index.m3u8
 #EXTINF:0,QAZAQSTAN HD
 #EXTGRP:Казахстан
 https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
+#EXTINF:0,Перец
+#EXTGRP:Развлекательные
+https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
 #EXTINF:0,Trace Urban HD
 #EXTGRP:Развлекательные
 https://ucdn.beetv.kz/bpk-tv/000001661/tve/index.m3u8
@@ -218,6 +233,9 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9
 #EXTINF:0,ТНТ4 HD
 #EXTGRP:Развлекательные
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
+#EXTINF:0,ТНТ4
+#EXTGRP:Развлекательные
+https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Развлекательные
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
@@ -362,234 +380,9 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:0,НТВ Стиль
 #EXTGRP:Развлекательные
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:0,Моя планета HD
-#EXTGRP:Познавательные
-https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:0,Неизвестная планета HD
-#EXTGRP:Познавательные
-http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
-#EXTINF:0,Приключения HD
-#EXTGRP:Познавательные
-https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:0,Discovery HD
-#EXTGRP:Познавательные
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
-#EXTINF:0,Discovery HD
-#EXTGRP:Познавательные
-http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:0,Nat Geo Wild
-#EXTGRP:Познавательные
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:0,National Geographic
-#EXTGRP:Познавательные
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:0,National Geographic
-#EXTGRP:Познавательные
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:0,Наука
-#EXTGRP:Познавательные
-https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:0,Открытый мир
-#EXTGRP:Познавательные
-http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:0,ПОЕХАЛИ!
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
-#EXTINF:0,Планета HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000001049/tve/index.m3u8
-#EXTINF:0,Загородная жизнь HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
-#EXTINF:0,Живая природа HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
-#EXTINF:0,Диалоги о Рыбалке
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
-#EXTINF:0,Домашние животные
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
-#EXTINF:0,Глазами Туриста HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
-#EXTINF:0,National Geographic HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:0,Visast History HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:0,VIASAT Nature HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:0,Viasat Explore HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:0,Рыбалка и охота
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
-#EXTINF:0,Оружие
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
-#EXTINF:0,Discovery Channel  HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
-#EXTINF:0,Мужской
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
-#EXTINF:0,ЕДА
-#EXTGRP:Познавательные
-https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
-#EXTINF:0,Открытый мир
-#EXTGRP:Познавательные
-http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:0,Продвижение
-#EXTGRP:Познавательные
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:0,Nano
-#EXTGRP:Познавательные
-http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF:0,Qazsport HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
-#EXTINF:0,Setanta Sports 1 HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:0,Setanta Qazaqstan HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
-#EXTINF:0,Qazsport HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
-#EXTINF:0,UFC Network
-#EXTGRP:Спорт
-http://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:0,Q Arena
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000007615/tve/index.m3u8
-#EXTINF:0,Setanta Sports 2 HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
-#EXTINF:0,Eurosport 2 HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:0,Setanta Sports 2 HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
-#EXTINF:0,Setanta Qazaqstan HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
-#EXTINF:0,Eurosport 1 HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:0,Astrakhan.RU Sport HD
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:0,Eurosport 1
-#EXTGRP:Спорт
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:0,Russian Extreme
-#EXTGRP:Спорт
-http://85.208.223.249:8888/play/a004
-#EXTINF:0,viju+ Sport
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
-#EXTINF:0,Удар HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
-#EXTINF:0,Конный Мир
-#EXTGRP:Спорт
-https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:Спорт
-http://185.57.68.33/110/mpegts
-#EXTINF:0,NHL Network
-#EXTGRP:Спорт
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:Спорт
-http://185.57.68.33/110/mpegts
-#EXTINF:0,Trace Sport Stars HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000001122/tve/index.m3u8
-#EXTINF:0,viju+ Sport
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
-#EXTINF:0,Setanta Sports 1 HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:0,Eurosport 2 HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:0,Eurosport 1 HD
-#EXTGRP:Спорт
-https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:0,Astrakhan.RU Sport HD
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Bein Sport Xtra
-#EXTGRP:Спорт
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0,ТВ Спорт
-#EXTGRP:Спорт
-http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Матч! Футбол 3
-#EXTGRP:Спорт
-http://timeshift.arpinet.am/110/mpegts
-#EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:Спорт
-http://185.57.68.33/110/mpegts
-#EXTINF:0,Овертайм ТВ
-#EXTGRP:Спорт
-http://live.overtime26.ru/app/potok/playlist.m3u8
-#EXTINF:0,Спортивный
-#EXTGRP:Спорт
-http://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:0,ТВ Спорт
-#EXTGRP:Спорт
-http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Africa 24 Sport
-#EXTGRP:Спорт
-https://edge12.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w469272935.m3u8
-#EXTINF:0,Astrakhan.RU Sport
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
-#EXTINF:0,Astrakhan.RU Sport HD
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Astrakhan.RU Sport HD
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:0,KHL
-#EXTGRP:Спорт
-https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
-#EXTINF:0,KTV Sport
-#EXTGRP:Спорт
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8
-#EXTINF:0,MMA TV.com (1080p)
-#EXTGRP:Спорт
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:0,Trace Sport Stars HD
-#EXTGRP:Спорт
-https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:0,Turkmen Sport
-#EXTGRP:Спорт
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:0,Viasat Sport
-#EXTGRP:Спорт
-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:0,Uzreport HD
-#EXTGRP:Спорт
-https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:0,MMA-TV HD
-#EXTGRP:Спорт
-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP:Кино
+https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:0,Индийское кино
 #EXTGRP:Кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
@@ -911,6 +704,387 @@ https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:0,Премиум Кино HD
 #EXTGRP:Кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:0,Рен ТВ
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
+#EXTINF:0,Седьмой канал
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
+#EXTINF:0,Победа
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:0,Новое Телевидение HD
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000001380/tve/index.m3u8
+#EXTINF:0,Наша Тема
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:0,МОДА
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
+#EXTINF:0,Мир Сериала
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
+#EXTINF:0,Здоровое ТВ
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000000057/tve/index.m3u8
+#EXTINF:0,Зал суда
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
+#EXTINF:0,Время
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:0,Euro News
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000000014/tve/index.m3u8
+#EXTINF:0,КТК HD
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
+#EXTINF:0,Astana TV
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
+#EXTINF:0,5 канал (региональный)
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
+#EXTINF:0,24 KZ HD
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
+#EXTINF:0,БОБЕР
+#EXTGRP:Новости
+https://ucdn.beetv.kz/bpk-tv/000001478/tve/index.m3u8
+#EXTINF:0,Россия 1 HD f
+#EXTGRP:Новости
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:0,НТВ Право
+#EXTGRP:Новости
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP:Новости
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:0,НТВ Стиль
+#EXTGRP:Новости
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:0,PLANETA RTR HD720
+#EXTGRP:Новости
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_USA.m3u8
+#EXTINF:0,НТВ Хит
+#EXTGRP:Новости
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:0,PLANETA RTR
+#EXTGRP:Новости
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
+#EXTINF:0,PLANETA RTR HD720
+#EXTGRP:Новости
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_EURO.m3u8
+#EXTINF:0,Россия РТР
+#EXTGRP:Новости
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_ASIA.m3u8
+#EXTINF:0,Россия РТР HD720
+#EXTGRP:Новости
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_ASIA.m3u8
+#EXTINF:0,Россия РТР
+#EXTGRP:Новости
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_SNG.m3u8
+#EXTINF:0,Россия РТР HD720
+#EXTGRP:Новости
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_SNG.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Новости
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Новости
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:0,НТВ-Мир
+#EXTGRP:Новости
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0,Мир
+#EXTGRP:Новости
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,РБК HD
+#EXTGRP:Новости
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:0,Красная линия
+#EXTGRP:Новости
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:0,НТВ Право
+#EXTGRP:Новости
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:0,Fashion TV
+#EXTGRP:Новости
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
+#EXTINF:0,Big Planet HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000008052/tve/index.m3u8
+#EXTINF:0,Моя планета HD
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:0,Неизвестная планета HD
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:0,Приключения HD
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:0,Discovery HD
+#EXTGRP:Познавательные
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:0,Discovery HD
+#EXTGRP:Познавательные
+http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:0,Наука
+#EXTGRP:Познавательные
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:0,Открытый мир
+#EXTGRP:Познавательные
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:0,ПОЕХАЛИ!
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:0,Планета HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000001049/tve/index.m3u8
+#EXTINF:0,Загородная жизнь HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
+#EXTINF:0,Живая природа HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
+#EXTINF:0,Диалоги о Рыбалке
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:0,Домашние животные
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:0,Глазами Туриста HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:0,Visast History HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
+#EXTINF:0,VIASAT Nature HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
+#EXTINF:0,Viasat Explore HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
+#EXTINF:0,Рыбалка и охота
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:0,Оружие
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
+#EXTINF:0,Discovery Channel  HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:0,Мужской
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:0,ЕДА
+#EXTGRP:Познавательные
+https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:0,Открытый мир
+#EXTGRP:Познавательные
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:0,Продвижение
+#EXTGRP:Познавательные
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:0,Nano
+#EXTGRP:Познавательные
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:0,Удар HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:0,Qazsport HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:0,Trace Sport Stars HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000001122/tve/index.m3u8
+#EXTINF:0,viju+ Sport
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:0,Setanta Qazaqstan HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
+#EXTINF:0,Q Football
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8
+#EXTINF:0,Q Arena
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000007615/tve/index.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:0,Qazsport HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:0,Setanta Qazaqstan HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
+#EXTINF:0,Qazsport HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:0,UFC Network
+#EXTGRP:Спорт
+http://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:0,Q Arena
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000007615/tve/index.m3u8
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:0,Setanta Qazaqstan HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:0,Astrakhan.RU Sport HD
+#EXTGRP:Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:0,Eurosport 1
+#EXTGRP:Спорт
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:0,Russian Extreme
+#EXTGRP:Спорт
+http://85.208.223.249:8888/play/a004
+#EXTINF:0,viju+ Sport
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:0,Удар HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:0,Конный Мир
+#EXTGRP:Спорт
+https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://185.57.68.33/110/mpegts
+#EXTINF:0,NHL Network
+#EXTGRP:Спорт
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://185.57.68.33/110/mpegts
+#EXTINF:0,Trace Sport Stars HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000001122/tve/index.m3u8
+#EXTINF:0,viju+ Sport
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Спорт
+https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:0,Astrakhan.RU Sport HD
+#EXTGRP:Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,Bein Sport Xtra
+#EXTGRP:Спорт
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:0,ТВ Спорт
+#EXTGRP:Спорт
+http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:Спорт
+http://timeshift.arpinet.am/110/mpegts
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://185.57.68.33/110/mpegts
+#EXTINF:0,Овертайм ТВ
+#EXTGRP:Спорт
+http://live.overtime26.ru/app/potok/playlist.m3u8
+#EXTINF:0,Спортивный
+#EXTGRP:Спорт
+http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:0,ТВ Спорт
+#EXTGRP:Спорт
+http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,Africa 24 Sport
+#EXTGRP:Спорт
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w469272935.m3u8
+#EXTINF:0,Astrakhan.RU Sport
+#EXTGRP:Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
+#EXTINF:0,Astrakhan.RU Sport HD
+#EXTGRP:Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,Astrakhan.RU Sport HD
+#EXTGRP:Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:0,KHL
+#EXTGRP:Спорт
+https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
+#EXTINF:0,KTV Sport
+#EXTGRP:Спорт
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8
+#EXTINF:0,MMA TV.com (1080p)
+#EXTGRP:Спорт
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:0,Trace Sport Stars HD
+#EXTGRP:Спорт
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:0,Turkmen Sport
+#EXTGRP:Спорт
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:0,Viasat Sport
+#EXTGRP:Спорт
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:0,Uzreport HD
+#EXTGRP:Спорт
+https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+#EXTINF:0,MMA-TV HD
+#EXTGRP:Спорт
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:0,Duck TV
 #EXTGRP:Детские
 https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
@@ -1163,195 +1337,6 @@ https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:HD каналы
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:0,Россия 1 HD f
-#EXTGRP:Новости
-https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:0,Россия 24 c
-#EXTGRP:Новости
-http://77.232.131.211/Rossiya24/index.m3u8
-#EXTINF:0,НТВ Право
-#EXTGRP:Новости
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:0,НТВ Сериал
-#EXTGRP:Новости
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:0,НТВ Стиль
-#EXTGRP:Новости
-https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:0,PLANETA RTR HD720
-#EXTGRP:Новости
-http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_USA.m3u8
-#EXTINF:0,НТВ Хит
-#EXTGRP:Новости
-https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:0,PLANETA RTR
-#EXTGRP:Новости
-http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
-#EXTINF:0,PLANETA RTR HD720
-#EXTGRP:Новости
-http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_EURO.m3u8
-#EXTINF:0,Россия РТР
-#EXTGRP:Новости
-http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_ASIA.m3u8
-#EXTINF:0,Россия РТР HD720
-#EXTGRP:Новости
-http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_ASIA.m3u8
-#EXTINF:0,Россия РТР
-#EXTGRP:Новости
-http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_SNG.m3u8
-#EXTINF:0,Россия РТР HD720
-#EXTGRP:Новости
-http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_SNG.m3u8
-#EXTINF:0,ТНТ4
-#EXTGRP:Новости
-https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
-#EXTINF:0,Россия 1 HD
-#EXTGRP:Новости
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:Новости
-http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
-#EXTINF:0,НТВ HD
-#EXTGRP:Новости
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:0,НТВ-Мир
-#EXTGRP:Новости
-https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:0,1 канал HD
-#EXTGRP:Новости
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Время
-#EXTGRP:Новости
-https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:Новости
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:0,НТВ Беларусь
-#EXTGRP:Новости
-http://194.158.222.36:6107
-#EXTINF:0,ОТР
-#EXTGRP:Новости
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:0,Пятый канал
-#EXTGRP:Новости
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP:Новости
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:0,Россия 1 HD
-#EXTGRP:Новости
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:0,ТВ Центр
-#EXTGRP:Новости
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:0,Известия HD
-#EXTGRP:Новости
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:0,Россия 24
-#EXTGRP:Новости
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:0,РБК HD
-#EXTGRP:Новости
-http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:0,Союз HD
-#EXTGRP:Новости
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:0,НТВ Право
-#EXTGRP:Новости
-http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:0,НТВ Стиль
-#EXTGRP:Новости
-http://cdn2.ntv.ru/th_style/playlist.m3u8
-#EXTINF:0,Первый канал (1080p)
-#EXTGRP:Новости
-http://31.148.48.15/Pervii_kanal_HD/index.m3u8
-#EXTINF:0,Da Vinci
-#EXTGRP:Новости
-https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
-#EXTINF:0,Время
-#EXTGRP:Новости
-http://195.64.140.147:10166/166
-#EXTINF:0,Красная линия
-#EXTGRP:Новости
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:0,Ностальгия
-#EXTGRP:Новости
-http://188.190.222.53/Nostalgia/index.m3u8
-#EXTINF:0,НТВ-Право
-#EXTGRP:Новости
-http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:0,НТВ-Стиль
-#EXTGRP:Новости
-http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:0,РЖД ТВ
-#EXTGRP:Новости
-http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
-#EXTINF:0,РЖД ТВ HD
-#EXTGRP:Новости
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:0,Россия Культура
-#EXTGRP:Новости
-http://185.46.16.239:8000/Rossiya_K
-#EXTINF:0,Россия Культура HD
-#EXTGRP:Новости
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:0,Светлое ТВ
-#EXTGRP:Новости
-http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:0,Матур ТВ
-#EXTGRP:Новости
-http://213.59.128.165:8080/Matur_TV/index.m3u8
-#EXTINF:0,Мир (+4)
-#EXTGRP:Новости
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Мир 24
-#EXTGRP:Новости
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Россия 1
-#EXTGRP:Новости
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Россия 1 (+1)
-#EXTGRP:Новости
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
-#EXTINF:0,Россия 1 (+3)
-#EXTGRP:Новости
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2&checkedby:iptvcat.com
-#EXTINF:0,Россия 1 (-1)
-#EXTGRP:Новости
-http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
-#EXTINF:0,Россия 1 +1
-#EXTGRP:Новости
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Россия 1 +3
-#EXTGRP:Новости
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Россия 1 +8
-#EXTGRP:Новости
-http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0,1 канал HD
-#EXTGRP:Новости
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Мир
-#EXTGRP:Новости
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0,РБК HD
-#EXTGRP:Новости
-http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:0,Первй канал HD
-#EXTGRP:Новости
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Красная линия
-#EXTGRP:Новости
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:0,НТВ Право
-#EXTGRP:Новости
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:0,Euronews
-#EXTGRP:Новости
-https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:0,Fashion TV
-#EXTGRP:Новости
-https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:0,МузСоюз HD
 #EXTGRP:Музыкальные
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
@@ -1496,171 +1481,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0,RU TV HD
 #EXTGRP:Музыкальные
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:0,Домашний (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:0,ТВ3 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:0,ТВ3 +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:0,ТВ3 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:0,ТВ3 +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:0,Первый канал +9 (Архив)
-#EXTGRP:Архив
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:0,Россия 1 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:0,Россия 1 +9 (Архив)
-#EXTGRP:Архив
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:0,СТС Love +7 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
-#EXTINF:0,НТВ (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:0,НТВ +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:0,Пятый канал (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:0,Пятый канал +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:0,ОТР (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:0,ТВ Центр +7 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:0,Россия Культура (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:0,Россия Культура +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:0,Беларусь 5 Интернет HD
-#EXTGRP:Архив
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
-#EXTINF:0,Звезда (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:0,Звезда +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:0,Мир (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:0,Домашний +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:0,Пятница! (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:0,Пятница! +7 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:0,Россия Культура (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:0,Россия Культура +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:0,СТС +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:0,СТС (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:0,СТС Love (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:0,Суббота! (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:0,Суббота! +7 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:0,ТНТ (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:0,ТНТ +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:0,ТНТ4 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:0,ТНТ4 +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:0,Че! (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:0,Че! +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:0,Ю ТВ (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:0,Ю ТВ +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:0,Домашний (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:0,2x2 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:0,Домашний +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:0,Пятница! (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:0,Пятница! +7 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:0,СТС +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:0,СТС Love (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:0,Суббота! (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:0,СТС Love +7 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
-#EXTINF:0,ТНТ (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:0,ТНТ +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:0,ТНТ4 (Архив)
-#EXTGRP:Архив
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:0,Че! (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:0,Че! +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:0,Ю ТВ (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:0,Ю ТВ +7 (Архив)
-#EXTGRP:Архив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:0,КВН ТВ
 #EXTGRP:unsorted
 http://31.148.48.15/KVN_TV/index.m3u8
@@ -1817,3 +1637,168 @@ https://pub0301.101.ru:8443/stream/air/mp3/256/102
 #EXTINF:0,MY5
 #EXTGRP:скрытые
 https://st.my5.media/hls/hd/index.m3u8
+#EXTINF:0,Домашний (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0,ТВ3 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:0,ТВ3 +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:0,ТВ3 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:0,ТВ3 +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:0,Первый канал +9 (Архив)
+#EXTGRP:
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:0,Россия 1 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:0,Россия 1 +9 (Архив)
+#EXTGRP:
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:0,СТС Love +7 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
+#EXTINF:0,НТВ (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:0,НТВ +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:0,Пятый канал (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:0,Пятый канал +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:0,ОТР (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:0,ТВ Центр +7 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:0,Россия Культура (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:0,Россия Культура +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF:0,Беларусь 5 Интернет HD
+#EXTGRP:
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
+#EXTINF:0,Звезда (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:0,Звезда +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:0,Мир (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:0,Домашний +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:0,Пятница! (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0,Пятница! +7 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:0,Россия Культура (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:0,Россия Культура +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF:0,СТС +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:0,СТС (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0,СТС Love (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:0,Суббота! (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:0,Суббота! +7 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:0,ТНТ (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:0,ТНТ +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:0,ТНТ4 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0,ТНТ4 +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:0,Че! (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0,Че! +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:0,Ю ТВ (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:0,Ю ТВ +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:0,Домашний (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0,2x2 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:0,Домашний +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:0,Пятница! (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0,Пятница! +7 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:0,СТС +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:0,СТС Love (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:0,Суббота! (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:0,СТС Love +7 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
+#EXTINF:0,ТНТ (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:0,ТНТ +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:0,ТНТ4 (Архив)
+#EXTGRP:
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0,Че! (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0,Че! +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:0,Ю ТВ (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:0,Ю ТВ +7 (Архив)
+#EXTGRP:
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
